@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=501&height=60&lines=𝗬𝗢𝗪+𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗕𝗢𝗧+𝗚𝗨𝗥𝗨!)](https://git.io/blinking-svg)
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR)](https://git.io/typing-svg)
 
 ---
 
@@ -20,13 +20,7 @@
 
 
 ## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
-
- `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
-
- `If you are a developer you can check out our`  [`API SITE`](https://api.dreaded.site).
-
- `The API site contains many endpoints that can be used in your projects. No need for API keys or login, completely free, for now`
+`This bot is a modification of the predecessor ***`𝗕𝗢𝗧 𝗚𝗨𝗥𝗨`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
 
 ## SET-UP
 
@@ -34,7 +28,7 @@
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Fortunatusmokaya/dreaded-v2/fork)***
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/ADDICT-HUB/BOTGURU/edit/main/README.md))***
 
 
 ## Pairing:
@@ -55,8 +49,6 @@
 - ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2).***
 
 -***`Fill in all the required variables and deploy the bot.`***
-
--***`If you plan to host the bot in your server, vps, locally or panel you can carefully edit the file settings.js and add the session id in the session constant (if you know what that is), or you can still autheticate with qr`***
 
 
 the bot libs***
@@ -87,6 +79,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
 
-Copyright (c) 2024 DREADED-V2
+Copyright (c) 2025 𝗕𝗢𝗧 𝗚𝗨𝗥𝗨
 
 
